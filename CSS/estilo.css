@@ -1,0 +1,24 @@
+/*Chicos los valores a utilizar
+Fuente:  Calibri, Arial, Helvetica, sans-serif
+Header fondo: #dddddd
+h1, h2 fondo: #BFBFBF
+h2 tamaño fuente: 18px
+footer color: #1F497D
+Footer tamaño fuente: 24px
+letter-spacing o word-spacing*/
+
+header {background-color: #dddddd; text-align:center}
+
+h1,h2 {background-color: #BFBFBF; font-weight: normal; }
+
+h1 {word-spacing: 20px; letter-spacing: 10px; color: rgb(43, 43, 165);}
+h2 {word-spacing: 10px; letter-spacing: 5px; color: brown; font-size: 18px; text-transform: uppercase;}
+
+main {margin-left: 15em; margin-right: 15em;}
+
+ul {text-transform: uppercase; font-family: Calibri;}
+span {font-weight: bold; font-style: italic;}
+dl {font-family: sans-serif; font-size: 14px;}
+
+footer{background-color: #1F497D; font-size: 24px; text-align:center; text-transform: uppercase; color:white; font-family: sans-serif;}
+.content {vertical-align:middle;}
