@@ -7,6 +7,10 @@ footer color: #1F497D
 Footer tamaño fuente: 24px
 letter-spacing o word-spacing*/
 
+*{
+    margin: 0;
+}
+
 header {background-color: #dddddd; text-align:center}
 
 h1,h2 {background-color: #BFBFBF; font-weight: normal; }
@@ -14,7 +18,7 @@ h1,h2 {background-color: #BFBFBF; font-weight: normal; }
 h1 {word-spacing: 20px; letter-spacing: 10px; color: rgb(43, 43, 165);}
 h2 {word-spacing: 10px; letter-spacing: 5px; color: brown; font-size: 18px; text-transform: uppercase;}
 
-main {margin-left: 15em; margin-right: 15em;}
+main {margin-left: 15em; margin-right: 15em; padding: 4% 0;}
 
 ul {text-transform: uppercase; font-family: Calibri;}
 span {font-weight: bold; font-style: italic;}
